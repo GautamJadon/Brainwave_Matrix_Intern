@@ -29,9 +29,6 @@ This project focuses on detecting fake news articles using machine learning and 
 4. Run the project:
    python FakeNewsDetectionModel.ipynb
 
-📊 Usage
-Explain how to use your project with examples or screenshots.
-
 🤖 Technologies Used
  -Python
  -TensorFlow / PyTorch

@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern
+# FakeNewsDetectionModel
 
 ## 📌 Overview
 This project focuses on detecting fake news articles using machine learning and deep learning techniques. It utilizes Natural Language Processing (NLP) to analyze text data and classify news articles as real or fake. The model helps combat misinformation by identifying unreliable news sources.

@@ -29,6 +29,7 @@ This project focuses on detecting fake news articles using machine learning and 
 4. Run the project:
    python FakeNewsDetectionModel.ipynb
 
+
 ## 🤖 Technologies Used
 
  -Python
@@ -38,6 +39,7 @@ This project focuses on detecting fake news articles using machine learning and 
  -Flask / FastAPI
  
  -Any other technologies
+
 
 ## 🛠️ Contributing
 

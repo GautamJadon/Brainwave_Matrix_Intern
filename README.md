@@ -39,7 +39,7 @@ This project focuses on detecting fake news articles using machine learning and 
  
  -Any other technologies
 
-## 🛠️ Contributing
+##🛠️ Contributing
 
 Contributions are welcome! Please follow these steps:
 

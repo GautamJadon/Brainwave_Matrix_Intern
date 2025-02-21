@@ -5,11 +5,17 @@ This project focuses on detecting fake news articles using machine learning and 
 
 ## 🚀 Features
 ✅ Multiple Approaches – Uses both Logistic Regression (TF-IDF) and LSTM (Deep Learning) for fake news classification.
+
 ✅ Pre-Trained Model Support – Loads an existing model if available, avoiding unnecessary retraining.
+
 ✅ Text Preprocessing – TF-IDF vectorization for better feature extraction.
+
 ✅ Deep Learning Support – Implements an LSTM neural network for advanced text analysis.
+
 ✅ Efficient Training & Inference – Saves trained models and vectorizers for future use.
+
 ✅ High Accuracy – Optimized model with TF-IDF + Logistic Regression or LSTM-based classification.
+
 ✅ Deployment Ready – Can be integrated into a web API using Flask or FastAPI for real-time predictions.
 
 ## 🏗️ Installation
